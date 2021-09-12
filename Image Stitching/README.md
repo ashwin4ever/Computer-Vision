@@ -1,4 +1,4 @@
-# Creating a panaroma of Images using OpenCV and Python - Image Stitching
+# Creating a panorama of Images using OpenCV and Python - Image Stitching
 
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](http://numpy.org) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)  
 
@@ -10,7 +10,7 @@ Original Image dimensions used in code is 1920 x 1504. Due to huge file size con
 
 
 **Problem Description**  
-Individual images of peanut farm bushes are captured to idenitfy the growth of the canopy in terms of width. They are then stitched as a long panaroma image which is used to study and understand efficient use of fertilizers to boost peanut plant growth. The project was done in colloboration with USDA.
+Individual images of peanut farm bushes are captured to idenitfy the growth of the canopy in terms of width. They are then stitched as a long panorama image which is used to study and understand efficient use of fertilizers to boost peanut plant growth. The project was done in colloboration with USDA.
 
 **Methods**  
 All images are captured using Microsoft Kinect which is mounted on a RC cart. OpenCV and Python is then used to develop the Image stitching algorithm. techniques used include SIFT, Poisson Blending and Homography Matrix generation.  
