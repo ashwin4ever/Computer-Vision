@@ -14,6 +14,6 @@ Sanborn Fire Insurance Maps provided by Library of Congress
 
 **Code information:**  
 - [k_means_sanborn.ipynb](https://github.com/ashwin4ever/Computer-Vision/blob/main/Detecting_Circles/k_means_sanborn.ipynb): Identifies and clusters images as either having Gasometer marking or not. This is a binary classification problem with 2 classes. **Cluster 0:** Positive class and **Cluster 1:** Negative class 
-- [detect_sanborn_gasometers.ipynb](https://github.com/ashwin4ever/Computer-Vision/blob/main/Detecting_Circles/detect_sanborn_gasometers.ipynb): This detects circular portions from the image maps using Hough Tanrsforms 
+- [detect_sanborn_gasometers.ipynb](https://github.com/ashwin4ever/Computer-Vision/blob/main/Detecting_Circles/detect_sanborn_gasometers.ipynb): This detects circular portions from the image maps using Hough Transforms 
 - [sanborn_maps_download.ipynb](https://github.com/ashwin4ever/Computer-Vision/blob/main/Detecting_Circles/sanborn_maps_download.ipynb): Code to download Sanborn Image maps
 
