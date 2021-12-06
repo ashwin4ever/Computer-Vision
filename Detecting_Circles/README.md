@@ -10,6 +10,7 @@ To detect circular gasometer markings in Sanborn Fire Insurance Maps.
 
 **Data Information:**
 Sanborn Fire Insurance Maps provided by Library of Congress  
+- **ROI**: This folder contains the regions of interest extracted after applying Hough Transforms and is used for clustering
 
 **Code information:**  
 - [k_means_sanborn.ipynb](https://github.com/ashwin4ever/Computer-Vision/blob/main/Detecting_Circles/k_means_sanborn.ipynb): Identifies and clusters images as either having Gasometer marking or not. This is a binary classification problem with 2 classes  
