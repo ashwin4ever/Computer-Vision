@@ -1,6 +1,6 @@
 
 
-## This code implements semi-automatic labelling of Gasometer image markings as specified in:
+## This code implements semi-automatic labelling of Gasometer image markings. Reference to the problem and original approach can be viewed at:
 [Feature extraction and machine learning techniques for identifying historic urban environmental hazards: New methods to locate lost fossil fuel infrastructure in US cities](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255507)
 
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](http://numpy.org) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)  
